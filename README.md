@@ -10,6 +10,10 @@ Connected to FREE ChatGPT web service (uses my free endpoint)
 - Bot stats & analytics 📈
 - Chat memory & history (keeps context, doesn’t forget) 🧠
 
+<h2>Screenshots</h2>
+<img src="screenshots/panel-1.png" width="420" />
+<img src="screenshots/panel-2.png" width="420" />
+
 ## Price
 $500
 
