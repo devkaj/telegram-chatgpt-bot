@@ -1,2 +1,19 @@
-# telegram-chatgpt-bot
-Telegram ChatGPT AI ChatBot in PHP — Free ChatGPT WebService, Admin Panel, Daily Limits, Join Channels, Broadcast, Ban/Unban, Stats, Chat Memory. (Source for sale)
+# Telegram ChatGPT AI ChatBot (PHP)
+Connected to FREE ChatGPT web service (uses my free endpoint)
+
+## Features
+- Admin Panel: set daily usage limits 📊
+- Unlimited admins 👥
+- Force Join (mandatory channels) — unlimited 🔒
+- Broadcast messaging from panel 📢
+- Ban / Unban users 🚫✅
+- Bot stats & analytics 📈
+- Chat memory & history (keeps context, doesn’t forget) 🧠
+
+## Price
+$500
+
+## Buy / Contact
+DM: @AbolfazlKaj (Telegram)
+
+**Keywords:** telegram chatgpt bot php source code, php telegram chatbot, telegram ai chatbot php, telegram bot admin panel, force join bot, mandatory join channels bot, broadcast bot, ban unban users bot, chat history memory bot
