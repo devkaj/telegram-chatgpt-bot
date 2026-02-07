@@ -11,8 +11,8 @@ Connected to FREE ChatGPT web service (uses my free endpoint)
 - Chat memory & history (keeps context, doesn’t forget) 🧠
 
 <h2>Screenshots</h2>
-<img src="screenshots/panel-1.png" width="420" />
-<img src="screenshots/panel-2.png" width="420" />
+<img src="screenshots/panel-1.png" width="220" />
+<img src="screenshots/panel-2.png" width="220" />
 
 ## Price
 $500
