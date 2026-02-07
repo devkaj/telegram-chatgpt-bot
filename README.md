@@ -1,5 +1,5 @@
 # Telegram ChatGPT AI ChatBot (PHP)
-Connected to FREE ChatGPT web service (uses my free endpoint)
+Connected to a free ChatGPT-compatible web service (no per-message fee).
 
 ## Features
 - Admin Panel: set daily usage limits 📊
