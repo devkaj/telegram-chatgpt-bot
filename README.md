@@ -17,7 +17,7 @@ Connected to a free ChatGPT-compatible web service (no per-message fee).
 </p>
 
 ## Price
-$500
+$199
 
 ## Buy / Contact
 DM: <a href = "https://t.me/AbolfazlKaj">@AbolfazlKaj</a> (Telegram)
