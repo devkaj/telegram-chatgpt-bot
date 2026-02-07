@@ -20,6 +20,6 @@ Connected to a free ChatGPT-compatible web service (no per-message fee).
 $500
 
 ## Buy / Contact
-DM: @AbolfazlKaj (Telegram)
+DM: <a href = "https://t.me/AbolfazlKaj">@AbolfazlKaj</a> (Telegram)
 
 **Keywords:** telegram chatgpt bot php source code, php telegram chatbot, telegram ai chatbot php, telegram bot admin panel, force join bot, mandatory join channels bot, broadcast bot, ban unban users bot, chat history memory bot
